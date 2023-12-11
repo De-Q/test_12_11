@@ -1,0 +1,5 @@
+2023-12-08 17:02:38,310  logger.py[line:11]INFO ====== WebDriver manager ======
+2023-12-08 17:02:43,853  logger.py[line:11]INFO Get LATEST edgedriver version for Edge 119.0.2151
+2023-12-08 17:02:45,774  logger.py[line:11]INFO Get LATEST edgedriver version for Edge 119.0.2151
+2023-12-08 17:02:47,408  logger.py[line:11]INFO Driver [C:\Users\DeQ\.wdm\drivers\edgedriver\win64\119.0.2151.97\msedgedriver.exe] found in cache
+2023-12-08 17:02:59,498  test_admin.py[line:43]INFO 有效的用户名和密码登录系统
